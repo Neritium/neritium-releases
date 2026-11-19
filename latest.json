@@ -1,0 +1,42 @@
+{
+  "version": "0.9.1",
+  "pub_date": "2026-11-19T08:30:58.037Z",
+  "notes": "Neritium 0.9.1\n\nci(release): upload build outputs straight to the release\n\nChecksums: https://github.com/koen-luv/neritium-releases/releases/download/v0.9.1/SHA256SUMS.txt",
+  "assets": {
+    "macos-arm64": {
+      "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.1/Neritium-0.9.1-arm64.dmg",
+      "sha256": "f5b013f1e6b9f08872338e3aa915496091205734f818892e42b1fc889055cdcf",
+      "size": 186471271
+    },
+    "ios": {
+      "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.1/Neritium-0.9.1-unsigned.ipa",
+      "sha256": "7cc903372f9b6f4adbd0ad5a19b8faf114001e50e676ed549ad5de1e569c3eee",
+      "size": 4026626
+    },
+    "android": {
+      "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.1/Neritium-0.9.1.apk",
+      "sha256": "50d747a11b5c7863b6fabed358da7e9fb951a10bc9871783ab8065831df44afb",
+      "size": 9022432
+    },
+    "linux-x64": {
+      "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.1/Neritium-0.9.1.AppImage",
+      "sha256": "9eaa4c158f761beb62c4ff5b269b3c9b50c5decb9853a40d56903b0593df6239",
+      "size": 185264142
+    },
+    "linux-x64-deb": {
+      "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.1/Neritium-0.9.1.deb",
+      "sha256": "1266f9f70489b6b44a79ac351cccd04e72ad3183ad9c803031709e39aabd7992",
+      "size": 139081952
+    },
+    "macos-x64": {
+      "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.1/Neritium-0.9.1.dmg",
+      "sha256": "a3a9ac679497ffa6882321bf3abd361aa9d281bc36cbbb4e6155f03b7369f91d",
+      "size": 190384864
+    },
+    "windows-x64": {
+      "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.1/Neritium-Setup-0.9.1.exe",
+      "sha256": "8791907c96961ce685d53db9480f8a8079b8d0673812a6ed90d49f98f2a0476e",
+      "size": 150975810
+    }
+  }
+}
