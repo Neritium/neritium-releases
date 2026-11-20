@@ -1,42 +1,42 @@
 {
   "version": "0.9.2",
-  "pub_date": "2026-11-20T12:55:35.341Z",
-  "notes": "Neritium 0.9.2\n\nfeat: harden playback and add multi-provider lyrics\n\nChecksums: https://github.com/koen-luv/neritium-releases/releases/download/v0.9.2/SHA256SUMS.txt",
+  "pub_date": "2026-11-20T23:15:04.761Z",
+  "notes": "Neritium 0.9.2\n\nfeat: add Piped and JioSaavn sources and fix faded next-track volume\n\nChecksums: https://github.com/koen-luv/neritium-releases/releases/download/v0.9.2/SHA256SUMS.txt",
   "assets": {
     "macos-arm64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.2/Neritium-0.9.2-arm64.dmg",
-      "sha256": "e62472f6752369bb330975ce94c2b27579ffa0083aacc6c4f5006cb3a25d03dd",
-      "size": 186537830
+      "sha256": "d9ed917da154d2ddff05cd7f91f0baa83496fe3f65fddb93e8da1a224f64e92c",
+      "size": 186538662
     },
     "ios": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.2/Neritium-0.9.2-unsigned.ipa",
-      "sha256": "a0f05efab09b86b2596a19ddc2fe0abf108b86649cde4408161b2ccf0d6c905f",
-      "size": 4073749
+      "sha256": "7d0d85a4e6bbf436d3dae17be6d7bd6306b4a85b7d5abbb634aa25c0c6863af2",
+      "size": 4079231
     },
     "android": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.2/Neritium-0.9.2.apk",
-      "sha256": "2f4747e7f097b45776de75cb5b4d3c1366e0c18902c9555c16e8aea749b2bab4",
-      "size": 9392191
+      "sha256": "908c700e4d9a5c890992638595ec44c1dfd925e90eccde3b7ca4a9df7d8cfb84",
+      "size": 9397731
     },
     "linux-x64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.2/Neritium-0.9.2.AppImage",
-      "sha256": "75b1db15bc8b8db08699af18868809014349df36dedcd22bad23808ce3357875",
-      "size": 185300822
+      "sha256": "69fe5e1eec51b38fd90ec8ecebb8fc8a335964aa6f78e7af0af5b3f0ba96d90e",
+      "size": 185333679
     },
     "linux-x64-deb": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.2/Neritium-0.9.2.deb",
-      "sha256": "25ff256d54a65d8876d62f39a91e4d6a364795b591d1cdba016d6047ecfc4e8e",
-      "size": 139500352
+      "sha256": "551b4456eab73bbcfed694f6012be8303182a5d4ccd1fdb5ce24b0bc3b7fe9ee",
+      "size": 138791348
     },
     "macos-x64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.2/Neritium-0.9.2.dmg",
-      "sha256": "dce1643c67845db88d6a7e7c690f57ef267981498b19130b1b6b7509d7f196f0",
-      "size": 190442911
+      "sha256": "5ad485a889fecda3adcfe251e968e0a5fffd281a98c0d020cf4e4a443d5f2bcf",
+      "size": 190433254
     },
     "windows-x64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v0.9.2/Neritium-Setup-0.9.2.exe",
-      "sha256": "ed246efa2c830910f001e578f627a197d29ba398d04a782ea04d91f372e3585f",
-      "size": 151024962
+      "sha256": "40d449f68828e0339015c077b09181da1fe834a58caec6158aad7ce42b904c1b",
+      "size": 151036316
     }
   }
 }
