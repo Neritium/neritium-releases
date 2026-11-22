@@ -1,42 +1,42 @@
 {
   "version": "1.2.0",
-  "pub_date": "2026-11-22T21:28:31.865Z",
-  "notes": "Neritium 1.2.0\n\nchore: remove the palv URL helper\n\nChecksums: https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/SHA256SUMS.txt",
+  "pub_date": "2026-11-22T21:42:40.008Z",
+  "notes": "Neritium 1.2.0\n\nfix(ui): remove the sidebar artwork stripe\n\nChecksums: https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/SHA256SUMS.txt",
   "assets": {
     "macos-arm64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/Neritium-1.2.0-arm64.dmg",
-      "sha256": "b74e6eb7f4740760969d27faf8a072e1ad65d6619e079c775324153444886fd9",
-      "size": 188080252
+      "sha256": "12a30130e7e48b42844561bf0c9cd87bf0666dea0a67b64520e80dc2b05f3a77",
+      "size": 188071380
     },
     "ios": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/Neritium-1.2.0-unsigned.ipa",
-      "sha256": "f5f177148170ffa3e9a561f1da9d2af6e67f515a81433565b5c00349086734c4",
-      "size": 5623066
+      "sha256": "d7fb5e00dbf97cc35cc0b016e65fc870e1560589219360df5a5a86bd62458435",
+      "size": 5622274
     },
     "android": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/Neritium-1.2.0.apk",
-      "sha256": "2d3f31aba6e51ee7975986436feeb15412788de5c5c841c99602a2886f031e9c",
-      "size": 8111888
+      "sha256": "d8bab389673c1a120671b39f62eabb4ace7f87a1af77aedf81e4f93a5d327870",
+      "size": 8111100
     },
     "linux-x64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/Neritium-1.2.0.AppImage",
-      "sha256": "bc9bf82c9bdd7cf685596b778f8a9158af4c10073f619c5ad15d075c0e587c10",
-      "size": 186879254
+      "sha256": "f6388069f65b5d28666ca1e6523afec0d76e248c95291e113972aa1c0e72657d",
+      "size": 186883540
     },
     "linux-x64-deb": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/Neritium-1.2.0.deb",
-      "sha256": "6656dd0888d85c0f23d482fa16270b4abc95105bd96ef0da79525aba58ff50c9",
-      "size": 140444776
+      "sha256": "7e409786992b9a2fc06773e4e7c2efb8757e9723499bd3a77691875692a1c0b7",
+      "size": 140448364
     },
     "macos-x64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/Neritium-1.2.0.dmg",
-      "sha256": "17411533098e5a3d66d389193b87474a9cf7143ef7357761d220e11e1956c55b",
-      "size": 191970765
+      "sha256": "858ca5c6ee198434df706cec4b221d64604f9add4d5a15bac54270e5302a5520",
+      "size": 191957738
     },
     "windows-x64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/Neritium-Setup-1.2.0.exe",
-      "sha256": "6a9d3d7b685ec45a52059e550dbd6987a9366d047918a71b21bc045f0c4d01ab",
-      "size": 152365336
+      "sha256": "b94404f6dedae023d1e5f19bde7859ad7738cc3d0d925237bb4116af95b2baf1",
+      "size": 152360584
     }
   }
 }
