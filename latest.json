@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "pub_date": "2026-11-22T21:24:15.505Z",
+  "pub_date": "2026-11-22T21:28:31.865Z",
   "notes": "Neritium 1.2.0\n\nchore: remove the palv URL helper\n\nChecksums: https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/SHA256SUMS.txt",
   "assets": {
     "macos-arm64": {
@@ -15,7 +15,7 @@
     },
     "android": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/Neritium-1.2.0.apk",
-      "sha256": "24efbdd512eb65b45d66bf85ac3cb3b87739d6f7a09172f7fbb600176d7cfdce",
+      "sha256": "2d3f31aba6e51ee7975986436feeb15412788de5c5c841c99602a2886f031e9c",
       "size": 8111888
     },
     "linux-x64": {
@@ -35,8 +35,8 @@
     },
     "windows-x64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.0/Neritium-Setup-1.2.0.exe",
-      "sha256": "6395efa954babb9e88622604defd835ac61d252e972fd1434385d4fcc03b1e17",
-      "size": 152356200
+      "sha256": "6a9d3d7b685ec45a52059e550dbd6987a9366d047918a71b21bc045f0c4d01ab",
+      "size": 152365336
     }
   }
 }
