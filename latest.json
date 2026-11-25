@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "pub_date": "2026-11-23T09:28:28.538Z",
-  "notes": "Neritium 1.2.1\n\nfeat(lyrics): add Spicy Lyrics and fix the release channel\n\nChecksums: https://github.com/koen-luv/neritium-releases/releases/download/v1.2.1/SHA256SUMS.txt",
+  "version": "1.2.2",
+  "pub_date": "2026-11-25T10:23:00.644Z",
+  "notes": "1.2.2\n\nfeat(addons): in-app plugin authoring (desktop)",
   "assets": {
     "macos-arm64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.1/Neritium-1.2.1-arm64.dmg",
@@ -34,9 +34,9 @@
       "size": 191971418
     },
     "windows-x64": {
-      "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.1/Neritium-Setup-1.2.1.exe",
-      "sha256": "a85aa8ba55aececcc97c7a5ad7619f1211d73ff57cf2df5df8598fb264d8827d",
-      "size": 152354456
+      "url": "https://github.com/Neritium/neritium-releases/releases/download/v1.2.2/Neritium-Setup-1.2.2.exe",
+      "sha256": "8975b21f09474b2fcd2e94f530e1926c90209f438387a2869d011443c49347d5",
+      "size": 154662328
     }
   }
 }
