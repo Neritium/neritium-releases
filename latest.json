@@ -1,7 +1,7 @@
 {
-  "version": "1.2.2",
-  "pub_date": "2026-11-25T10:23:00.644Z",
-  "notes": "1.2.2\n\nfeat(addons): in-app plugin authoring (desktop)",
+  "version": "1.2.3",
+  "pub_date": "2026-11-25T11:28:02.861Z",
+  "notes": "1.2.3\n\nchore: bump version to 1.2.3",
   "assets": {
     "macos-arm64": {
       "url": "https://github.com/koen-luv/neritium-releases/releases/download/v1.2.1/Neritium-1.2.1-arm64.dmg",
@@ -34,9 +34,9 @@
       "size": 191971418
     },
     "windows-x64": {
-      "url": "https://github.com/Neritium/neritium-releases/releases/download/v1.2.2/Neritium-Setup-1.2.2.exe",
-      "sha256": "8975b21f09474b2fcd2e94f530e1926c90209f438387a2869d011443c49347d5",
-      "size": 154662328
+      "url": "https://github.com/Neritium/neritium-releases/releases/download/v1.2.3/Neritium-Setup-1.2.3.exe",
+      "sha256": "7458c2da3ac610298cdfd17fa818d221baee763598008608fe8a73cd2a3b284c",
+      "size": 154655776
     }
   }
 }
